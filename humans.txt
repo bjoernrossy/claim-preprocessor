@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Quico Moya -- Programmer -- @guingu
+    Yasemin Kaya -- Project Manager
+
+# THANKS
+
+    To everyone at YOC
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Normalize.css, jQuery, Modernizr

@@ -1,0 +1,4 @@
+cron:
+- description: daily report
+  url: /sendemail
+  schedule: every day 9:00
